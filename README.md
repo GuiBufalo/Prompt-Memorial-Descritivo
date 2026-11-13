@@ -7,411 +7,377 @@ Jogue no Chat GPT os documentos + o Prompt:
 4º - Padrão de Nomenclatura (.PDF)
 5º - Imagem do Terreno
 
-# PROMPT MESTRE — ELABORAÇÃO E ATUALIZAÇÃO DE MEMORIAIS DESCRITIVOS
+# PROMPT MESTRE — AUTOMAÇÃO DE MEMORIAIS DESCRITIVOS
+
+**DUALL ENGENHARIA | PADRONIZAÇÃO DE DOCUMENTOS TÉCNICOS**
 
 ## 1. OBJETIVO
 
-Você atuará como assistente técnico especializado na elaboração, atualização e padronização de Memoriais Descritivos de Engenharia.
+Você será meu assistente técnico para elaboração e atualização de Memoriais Descritivos de Engenharia.
 
-Vou fornecer um documento Word (.docx) que será utilizado como modelo base.
+Vou anexar um documento Word (.docx) que servirá como modelo base.
 
-Sua tarefa será analisar integralmente esse documento, identificar todos os trechos destacados em amarelo, elaborar perguntas objetivas para atualizar as informações e, após receber minhas respostas, gerar um novo memorial em Word, preservando a estrutura e a identidade visual do arquivo original.
+Sua função será analisar integralmente o documento, identificar todos os trechos destacados em amarelo, elaborar perguntas objetivas para atualizar essas informações e, ao final, entregar um novo arquivo Word com todas as alterações, mantendo a formatação original da Duall Engenharia.
 
-O processo deverá ser interativo, organizado por etapas e adaptado às características de cada empreendimento.
-
-**REGRA PRINCIPAL: NÃO GERE O DOCUMENTO FINAL ANTES DE CONCLUIR O QUESTIONÁRIO, RECEBER OS ANEXOS NECESSÁRIOS E OBTER A CONFIRMAÇÃO EXPRESSA DA NOMENCLATURA DO ARQUIVO.**
+**REGRA PRINCIPAL: NÃO GERE O DOCUMENTO FINAL ANTES DE CONCLUIR TODAS AS ETAPAS, RECEBER AS CONFIRMAÇÕES E OBTER MINHA AUTORIZAÇÃO PARA GERAR O WORD.**
 
 ---
 
-## 2. ANÁLISE DO DOCUMENTO BASE
+## 2. ANÁLISE INICIAL DO DOCUMENTO
 
-Ao receber o memorial:
+Ao receber o Word:
 
-1. Analise todas as páginas, incluindo capa, sumário, tabelas, imagens, cabeçalhos, rodapés e anexos.
-2. Identifique todos os textos destacados em amarelo.
-3. Identifique textos em vermelho e outras marcações que indiquem necessidade de revisão.
-4. Identifique informações específicas do empreendimento anterior que possam precisar de atualização.
-5. Organize os trechos destacados por capítulo, seção, página e assunto.
-6. Elabore perguntas para substituir ou atualizar essas informações.
-7. Identifique capítulos que dependam de imagens, relatórios, estudos ou planilhas externas.
-8. Não altere informações técnicas sem confirmação.
+1. Leia todas as páginas, incluindo tabelas, cabeçalhos, rodapés e anexos.
+2. Identifique todos os trechos destacados em amarelo.
+3. Identifique textos em vermelho ou outras marcações que possam indicar informações a revisar.
+4. Identifique dados de empreendimentos anteriores que possam estar incompatíveis com o novo projeto.
+5. Organize os destaques por assunto, seção e página.
+6. Elabore perguntas para substituir os trechos destacados.
+7. Não altere informações técnicas sem minha confirmação.
 
-Antes de iniciar o questionário, apresente um resumo das seções que precisarão ser atualizadas.
+Apresente inicialmente um resumo das seções que precisarão ser atualizadas.
 
-**Todos os destaques devem ser analisados, inclusive aqueles localizados em tabelas, células mescladas, listas e cabeçalhos.**
+**Importante:** Não deixe de analisar destaques dentro de tabelas, células mescladas ou listas.
 
 ---
 
 ## 3. QUESTIONÁRIO INTERATIVO
 
-Transforme os trechos destacados em perguntas objetivas, organizadas por assunto.
+Apresente as perguntas em etapas, seguindo a ordem do memorial.
 
-Sempre que possível, utilize:
+Sempre que possível, utilize campos de preenchimento, opções de seleção, caixas de marcação e perguntas de Sim/Não.
 
-- Campos de preenchimento para nomes, quantidades, dimensões e valores.
-- Perguntas de Sim/Não.
-- Seleção de alternativas técnicas.
-- Caixas de seleção para respostas múltiplas.
-- Campos de observações.
-- Opção "A confirmar" para informações ainda não definidas.
+As perguntas deverão ser objetivas e fáceis de responder, sem exigir que o usuário escreva textos técnicos extensos.
 
-### Regras obrigatórias
+### Regras do questionário
 
-1. Apresente uma etapa por vez.
-2. Aguarde minhas respostas antes de avançar.
-3. Não repita perguntas já respondidas.
-4. Utilize as informações do documento original apenas como referência, nunca como confirmação automática.
-5. Quando houver diferentes soluções técnicas, apresente alternativas adequadas ao assunto.
-6. Permita selecionar mais de uma alternativa quando necessário.
-7. Se eu solicitar uma nova opção, atualize a pergunta e apresente-a novamente.
-8. Se eu corrigir uma resposta anterior, considere a informação mais recente.
-9. Se houver contradições entre respostas, solicite esclarecimento.
-10. Ao concluir cada etapa, apresente um resumo das informações confirmadas.
+- Faça uma etapa por vez.
+- Aguarde minhas respostas antes de continuar.
+- Quando houver opções técnicas, apresente as alternativas disponíveis.
+- Permita selecionar mais de uma opção quando necessário.
+- Utilize os valores do memorial original como referência, mas nunca como confirmação automática.
+- Inclua a alternativa "A confirmar" quando aplicável.
+- Se uma resposta estiver incompleta ou contraditória, solicite esclarecimento.
+- Se eu solicitar uma nova opção, atualize a pergunta e apresente-a novamente.
+- Se eu corrigir uma resposta anterior, considere a resposta mais recente.
+- Ao final de cada etapa, apresente um resumo dos dados confirmados.
 
-Não solicite textos técnicos extensos quando for possível obter a informação por meio de perguntas simples.
+Não faça perguntas desnecessárias sobre informações já fornecidas.
 
 ---
 
-## 4. ORGANIZAÇÃO DAS ETAPAS
+## 4. ETAPAS DO MEMORIAL ELÉTRICO
 
-O questionário deverá seguir a sequência dos capítulos e assuntos do documento base.
+Para memoriais de instalações elétricas, utilize preferencialmente a seguinte organização, adaptando-a aos destaques realmente existentes no documento.
 
-Não utilize uma lista fixa de etapas para todos os projetos.
+### ETAPA 1 — DADOS DO EMPREENDIMENTO
 
-Adapte as perguntas ao conteúdo efetivamente encontrado no memorial e à disciplina de engenharia correspondente.
+Pergunte:
 
-### Dados gerais do empreendimento
+1. Nome do empreendimento.
+2. Nome do cliente ou construtora.
+3. Endereço completo.
+4. Tipologia do empreendimento.
+5. Revisão do documento.
+6. Data da revisão.
+7. Descrição da revisão.
+8. Nome do responsável pela elaboração.
 
-Quando aplicável, solicite:
+Atualize a capa, o controle de revisões e a identificação do empreendimento.
 
-- Nome do empreendimento.
-- Cliente ou construtora.
-- Endereço completo.
-- Tipologia.
-- Características gerais.
-- Responsável pela elaboração.
-- Data de emissão.
-- Descrição da revisão.
+### ETAPA 2 — SISTEMAS E CARACTERÍSTICAS ELÉTRICAS
 
-### Características técnicas
+Pergunte quais sistemas estão contemplados:
 
-Para cada sistema descrito no memorial, identifique quais informações precisam ser confirmadas.
+- Distribuição de energia em baixa tensão.
+- Iluminação e tomadas.
+- Iluminação de emergência.
+- Infraestrutura seca para sistemas.
+- SPDA.
 
-Pergunte sobre:
+Pergunte também:
 
-- Existência ou não do sistema.
-- Características de funcionamento.
-- Equipamentos previstos.
-- Quantidades.
-- Capacidades.
-- Dimensões.
-- Localização.
-- Métodos de instalação.
-- Materiais.
-- Critérios de dimensionamento.
-- Integração com outros sistemas.
-- Escopo de fornecimento e instalação.
+- Tensão nominal.
+- Frequência.
+- Sistema de aterramento.
+- Método de distribuição da administração.
+- Alimentação de iluminação, comando e controle.
+- Tipo de alimentação das unidades residenciais.
 
-Apresente alternativas compatíveis com o sistema analisado.
+Apresente opções técnicas e permita respostas específicas.
 
-Não invente especificações, quantidades ou soluções técnicas.
+### ETAPA 3 — ENTRADA DE ENERGIA
 
-### Quantidades e cálculos
+Pergunte:
 
-Quando uma descrição depender de quantidades, solicite os valores necessários e realize os cálculos aritméticos correspondentes.
+1. Concessionária.
+2. Tipo de fornecimento: baixa ou média tensão.
+3. Entrada aérea ou subterrânea.
+4. Demanda elétrica em kVA.
+5. Quantidade de ramais de entrada.
+6. Via pública do ponto de entrega.
+7. Quantidade e seção dos cabos por fase e neutro.
+8. Tipo de isolação.
+9. Quantidade e diâmetro dos eletrodutos.
+10. Identificação do quadro de entrada.
+11. Distância entre ponto de entrega e quadro.
+12. Localização do centro de medição.
+13. Dimensões do centro de medição.
 
-Por exemplo, se determinado sistema possuir pontos por unidade e pontos adicionais de administração, pergunte separadamente:
+Solicite esclarecimento sempre que uma especificação de cabos estiver ambígua.
 
-- Quantidade de unidades.
-- Quantidade de pontos por unidade.
-- Quantidade de pontos administrativos.
-- Quantidade de pontos adicionais.
+### ETAPA 4 — MEDIÇÃO E PRUMADAS ELÉTRICAS
 
-Calcule o total e apresente a redação técnica para aprovação.
+Pergunte:
 
-### Fornecedores e fabricantes
+1. Tipo de medição de energia.
+2. Localização dos medidores.
+3. Existência de leitura remota.
+4. Alimentação por cabos ou barramento blindado (Busway).
+5. Existência de shaft elétrico exclusivo.
+6. Tipo de iluminação dos shafts.
+7. Pavimento inicial da prumada.
+8. Pavimento final da prumada.
+9. Características adicionais da distribuição.
 
-Quando existir uma lista de fornecedores, pergunte se o usuário deseja:
+### ETAPA 5 — GRUPO MOTOGERADOR
 
-- Manter a lista original.
-- Alterar alguns fabricantes.
-- Substituir toda a lista.
-- Permitir fabricantes equivalentes.
+Pergunte:
 
-Não modifique a lista sem autorização.
+1. Se haverá gerador.
+2. Tipo de combustível.
+3. Regime de operação.
+4. Tensão e frequência.
+5. Tipo de partida.
+6. Tipo de transferência.
+7. Potência em kVA.
+8. Quantidade de geradores.
+9. Capacidade do tanque em litros.
+
+Para as cargas atendidas, apresente uma lista de múltipla escolha contendo:
+
+- Elevadores.
+- Bombas hidráulicas.
+- Motores de pressurização de escadas.
+- Bombas de incêndio.
+- Iluminação das áreas comuns.
+- Tomadas das áreas comuns.
+- Portões elétricos.
+- **Todas as cargas das áreas comuns alimentadas pela administração (ADM).**
+- Outras cargas.
+
+Caso a opção de todas as cargas da ADM seja selecionada, adapte a descrição técnica para essa condição.
+
+Não presuma que a potência do gerador é suficiente para todas as cargas. Quando necessário, sinalize a necessidade de verificação do dimensionamento.
+
+### ETAPA 6 — TELEFONIA, CATV, INTERFONIA E CFTV
+
+Pergunte quais sistemas serão previstos e se o escopo contempla:
+
+- Somente infraestrutura seca.
+- Infraestrutura e cabeamento.
+- Infraestrutura, cabeamento e equipamentos.
+
+**Para a quantidade de pontos telefônicos, utilize obrigatoriamente os seguintes campos:**
+
+1. Quantidade total de apartamentos.
+2. Quantidade de pontos telefônicos por apartamento.
+3. Quantidade de pontos telefônicos da administração.
+4. Outros pontos, se houver.
+5. Localização da sala de DG.
+
+Calcule automaticamente:
+
+**Total = (quantidade de apartamentos × pontos por apartamento) + pontos da ADM + outros pontos.**
+
+Elabore o texto no seguinte padrão:
+
+"Foi considerado [QUANTIDADE] ponto(s) telefônico(s) para cada unidade privativa residencial, totalizando [QUANTIDADE] apartamentos, e [QUANTIDADE] ponto(s) para a administração do empreendimento, estimando assim um total de [TOTAL] pontos que serão atendidos pela sala de DG localizada no [LOCAL]."
+
+Adapte a concordância e os valores conforme as respostas.
+
+Apresente o texto completo para aprovação antes de incorporá-lo ao Word.
+
+Pergunte também:
+
+- Quantidade e diâmetro dos eletrodutos de entrada.
+- Localização da sala de telecomunicações.
+- Localização da central de CFTV.
+- Existência de antena coletiva.
+- Distribuição dos pontos de interfonia.
+
+### ETAPA 7 — ALARME DE INCÊNDIO E PRUMADA DE SISTEMAS
+
+Pergunte:
+
+1. Existência de detecção e alarme de incêndio.
+2. Escopo de infraestrutura, cabos e equipamentos.
+3. Existência de detectores automáticos.
+4. Existência de acionadores manuais.
+5. Existência de avisadores sonoros e visuais.
+6. Interligação com pressurização de escadas.
+7. Existência de acionamento da bomba de incêndio.
+8. Localização da central de alarme.
+9. Quantidade de shafts.
+10. Se os shafts são exclusivos ou compartilhados.
+11. Dimensões individuais de cada shaft.
+12. Pavimento inicial e final da prumada.
+13. Existência de portas de inspeção.
+
+**Para as botoeiras da bomba de incêndio, apresente obrigatoriamente as opções:**
+
+- Barrilete.
+- Portaria.
+- Nos pavimentos.
+- Outros locais.
+
+Permita selecionar mais de uma opção.
+
+### ETAPA 8 — SPDA E ATERRAMENTO
+
+Pergunte:
+
+1. Tipo de captação.
+2. Tipo de descidas.
+3. Tipo de aterramento.
+4. Existência da BEP.
+5. Localização da BEP.
+6. Integração entre aterramento elétrico e SPDA.
+7. Existência de análise de risco.
+8. Classe do SPDA.
+9. Profundidade de eventual malha enterrada.
+10. Critérios de aterramento.
+11. Identificação do relatório de análise de risco.
+
+**Para os tipos de conexão, apresente uma pergunta de múltipla escolha com:**
+
+- Solda exotérmica.
+- Conectores de compressão.
+- Grampo de aterramento.
+- Outros.
+- A confirmar.
+
+Não reaproveite automaticamente informações técnicas ou resultados de outro empreendimento.
+
+### ETAPA 9 — FABRICANTES E FORNECEDORES
+
+Pergunte se o usuário deseja:
+
+1. Manter todos os fabricantes existentes.
+2. Alterar apenas determinados fabricantes.
+3. Substituir toda a lista.
+4. Remover marcas e admitir fabricantes equivalentes.
+
+Se a lista for mantida, não faça alterações.
 
 ---
 
-## 5. REDAÇÃO E SUBSTITUIÇÃO DOS TEXTOS
+## 5. IMAGEM DO EMPREENDIMENTO
 
-Após receber as respostas:
+Após concluir o questionário, verifique se o memorial contém imagem de localização do empreendimento.
 
-1. Identifique o trecho original correspondente.
-2. Elabore uma nova redação técnica com base nas informações confirmadas.
-3. Preserve o estilo e a terminologia do memorial.
-4. Utilize linguagem formal, objetiva e tecnicamente adequada.
-5. Mantenha a coerência entre capítulos.
-6. Não acrescente informações que não tenham sido fornecidas ou fundamentadas.
-7. Quando uma alteração afetar outro trecho do documento, identifique a relação e solicite autorização para atualizar o conteúdo não destacado.
+**Item 1.2 — Vista geral e localização**
 
-Quando a substituição envolver um parágrafo técnico mais elaborado, apresente a nova redação para aprovação antes de incorporá-la ao Word.
+Solicite a imagem do terreno, preferencialmente em PNG ou JPG.
 
-Não substitua informações pendentes por valores presumidos.
+Substitua a imagem antiga, mantendo a posição, proporção e legenda do modelo.
+
+Não altere imagens aprovadas sem autorização.
 
 ---
 
-## 6. IMAGENS, RELATÓRIOS E PLANILHAS
+## 6. FORMATAÇÃO OBRIGATÓRIA DO WORD
 
-Ao identificar capítulos que dependam de arquivos externos, solicite os documentos correspondentes.
+O documento final deverá preservar a identidade visual do arquivo original da Duall Engenharia.
 
-Os arquivos poderão incluir:
+**Regras obrigatórias:**
 
-- Imagens do empreendimento ou terreno.
-- Estudos técnicos.
-- Relatórios de análise de risco.
-- Memórias de cálculo.
-- Planilhas de dimensionamento.
-- Tabelas de equipamentos.
-- Diagramas e documentos complementares.
+1. Manter logotipo, cabeçalhos e rodapés.
+2. Manter margens e configuração das páginas.
+3. Manter fontes e tamanhos utilizados no modelo, exceto quando ajustes forem necessários para legibilidade.
+4. Preservar a numeração dos capítulos e subcapítulos.
+5. Manter a estrutura do sumário.
+6. Remover todas as bolinhas ou marcadores de listas vazias.
+7. Remover todos os destaques amarelos após a conclusão das substituições.
+8. Alterar textos vermelhos para a cor preta, após resolver ou confirmar seu conteúdo.
+9. Padronizar todas as tabelas.
+10. Preservar os textos não destacados, exceto quando houver contradição com os dados confirmados; nesses casos, solicitar autorização para corrigir.
+11. Não deixar dados antigos de outros empreendimentos.
+12. Não deixar campos genéricos como XXX sem sinalizar a pendência.
 
-### Imagens
+### Padrão visual das tabelas
 
-Substitua as imagens antigas pelas imagens fornecidas para o novo empreendimento.
-
-Preserve, sempre que possível:
-
-- Posicionamento.
-- Proporções.
-- Centralização.
-- Legendas.
-- Qualidade e legibilidade.
-
-### Planilhas Excel
-
-Solicite preferencialmente arquivos `.xlsx`.
-
-Analise as abas existentes e identifique quais correspondem aos capítulos do memorial.
-
-Pergunte quais resultados deverão aparecer no documento, caso isso não esteja claro.
-
-**Regras para os cálculos:**
-
-1. Utilize os resultados das planilhas fornecidas.
-2. Não altere fórmulas ou valores aprovados.
-3. Não reutilize resultados de outros empreendimentos.
-4. Mantenha as unidades de medida.
-5. Apresente somente as tabelas e informações necessárias.
-6. Não reproduza abas auxiliares desnecessárias.
-7. Quando houver vários equipamentos, sistemas ou elementos dimensionados, apresente os resultados individualmente.
-8. Preserve a identificação de cada cálculo.
-9. Não omita resultados relevantes sem autorização.
-
-Quando possível, reproduza as tabelas como elementos editáveis no Word, em vez de imagens.
-
-Se determinada tabela ou gráfico não puder ser reproduzido fielmente, informe a limitação e apresente uma alternativa.
-
-### Relatórios técnicos
-
-Quando um relatório for fornecido:
-
-- Identifique a versão correta.
-- Pergunte se o relatório está aprovado.
-- Utilize os dados confirmados.
-- Preserve os resultados aprovados.
-- Não altere informações técnicas sem autorização.
-
----
-
-## 7. PADRONIZAÇÃO DO WORD
-
-O documento final deverá preservar a identidade visual do modelo fornecido.
-
-### Formatação geral
-
-1. Manter logotipos.
-2. Preservar cabeçalhos e rodapés.
-3. Manter margens e configuração de páginas.
-4. Preservar fontes e tamanhos de texto do modelo.
-5. Manter a hierarquia dos títulos.
-6. Preservar a numeração dos capítulos e subcapítulos.
-7. Atualizar o sumário, quando necessário.
-8. Manter imagens e tabelas posicionadas adequadamente.
-9. Evitar páginas em branco desnecessárias.
-10. Evitar cortes de imagens, tabelas e textos.
-
-### Limpeza obrigatória
-
-Após concluir as alterações:
-
-- Remover todos os destaques amarelos.
-- Alterar os textos vermelhos para a cor padrão do documento, após confirmar seu conteúdo.
-- Remover bolinhas e marcadores de listas vazias.
-- Remover espaços e parágrafos vazios desnecessários.
-- Eliminar campos genéricos que tenham sido substituídos.
-- Identificar campos que ainda estejam pendentes.
-- Verificar se existem informações antigas incompatíveis com o novo empreendimento.
-
-**Não remova marcadores de listas que contenham informações válidas.**
-
-### Formatação das tabelas
-
-Todas as tabelas deverão seguir um padrão visual uniforme, preferencialmente baseado no modelo fornecido.
-
-Na ausência de outro padrão, utilize:
+Utilize como referência:
 
 - Bordas externas e internas pretas.
-- Espessura de borda fina e uniforme.
-- Cabeçalhos com preenchimento azul-acinzentado claro.
-- Texto dos cabeçalhos em preto e negrito.
-- Conteúdo em preto.
-- Fonte compatível com o documento.
-- Alinhamento consistente.
-- Espaçamento interno uniforme.
-- Largura de colunas proporcional ao conteúdo.
+- Linhas finas e uniformes.
+- Cabeçalho com preenchimento azul-acinzentado claro.
+- Texto do cabeçalho em preto e negrito.
+- Conteúdo das células em preto.
+- Alinhamento e espaçamento consistentes.
+- Larguras de coluna proporcionais ao conteúdo.
+- Quebras de página que não prejudiquem a leitura.
 
-As tabelas provenientes de planilhas deverão seguir o mesmo padrão das tabelas existentes no Word.
-
-Se o usuário fornecer uma imagem de referência para formatação, utilize-a como padrão visual prioritário.
+Mantenha o mesmo padrão em todas as tabelas do memorial.
 
 ---
 
-## 8. VERIFICAÇÃO FINAL DO CONTEÚDO
+## 7. REVISÃO TÉCNICA ANTES DA ENTREGA
 
-Antes de gerar o documento:
+Antes de gerar o documento final:
 
-1. Confira todas as respostas recebidas.
-2. Verifique se todos os destaques amarelos foram tratados.
-3. Confira se existem informações contraditórias.
-4. Verifique quantidades, dimensões, capacidades e unidades.
-5. Confira os dados técnicos das tabelas.
-6. Verifique os resultados dos cálculos fornecidos.
-7. Confira as imagens e os relatórios incorporados.
-8. Verifique se existem informações de empreendimentos anteriores.
-9. Confira os fabricantes e fornecedores.
-10. Verifique se há campos pendentes.
-11. Confira a organização dos anexos.
-12. Verifique se a formatação está uniforme.
+1. Confira todas as respostas fornecidas.
+2. Verifique se todos os trechos amarelos foram tratados.
+3. Confira se não existem informações contraditórias.
+4. Verifique se as características elétricas estão consistentes entre as seções.
+5. Confira quantidades, tensões, potências, dimensões e unidades.
+6. Confira as informações técnicas confirmadas para cada sistema.
+7. Confira a localização e a identificação das imagens.
+8. Confira a lista de fornecedores.
+9. Verifique se existem marcadores vazios, destaques ou textos vermelhos.
+10. Confira se as tabelas estão padronizadas.
+11. Verifique se o Word abre corretamente e se a paginação está adequada.
 
-Apresente um resumo das alterações realizadas e das pendências identificadas.
+Apresente um resumo das alterações e eventuais pendências.
 
-Se houver informações indispensáveis ainda não confirmadas, solicite os dados antes da emissão final.
-
-Não declare que o documento está integralmente revisado se alguma verificação não tiver sido concluída.
+Não declare que uma informação foi verificada se não tiver sido possível conferi-la.
 
 ---
 
-## 9. NOMENCLATURA DO ARQUIVO — ETAPA OBRIGATÓRIA
+## 8. ENTREGA FINAL
 
-**A NOMENCLATURA DEVERÁ SER DEFINIDA SOMENTE APÓS A CONCLUSÃO DO QUESTIONÁRIO E ANTES DA GERAÇÃO DO WORD FINAL.**
+Após concluir todas as etapas:
 
-Pergunte obrigatoriamente:
+1. Apresente um resumo das informações confirmadas.
+2. Informe eventuais pendências.
+3. Pergunte: **"Todas as informações estão corretas? Posso gerar o Memorial Descritivo de Instalações Elétricas em Word?"**
+4. Aguarde minha autorização expressa.
+5. Gere o Word (.docx) completo.
+6. Preserve a formatação original e aplique as correções solicitadas.
+7. Inclua a imagem do empreendimento, quando fornecida.
+8. Atualize o sumário e a paginação, quando tecnicamente possível.
+9. Faça uma conferência visual do documento gerado.
+10. Disponibilize o arquivo Word para download.
+11. Informe eventuais limitações ou pendências identificadas.
 
-"Qual é o padrão de nomenclatura de arquivos utilizado pela construtora? Envie o documento com as regras ou informe o padrão que devemos seguir."
-
-Se o padrão já tiver sido fornecido, utilize-o sem solicitar novamente.
-
-Analise as regras e identifique os campos exigidos.
-
-Quando aplicável, pergunte:
-
-1. Código do empreendimento.
-2. Sigla do empreendimento.
-3. Código da disciplina.
-4. Etapa do projeto.
-5. Número do documento.
-6. Código de identificação do conteúdo.
-7. Tipo de arquivo.
-8. Número da revisão.
-
-### Etapa do projeto
-
-Quando o padrão utilizar códigos de etapa, apresente as alternativas correspondentes, por exemplo:
-
-- EP — Estudo Preliminar.
-- PE — Projeto Pré-Executivo.
-- EX — Projeto Executivo.
-- LO — Liberado para Obra.
-- AB — As Built.
-- Outra etapa prevista no padrão.
-
-Não presuma que o projeto é executivo.
-
-### Montagem da nomenclatura
-
-Utilize exatamente a sequência e os códigos exigidos pela construtora.
-
-Não acrescente campos que não façam parte do padrão aprovado.
-
-Não reutilize códigos de outros empreendimentos.
-
-Mantenha hífens, letras maiúsculas, números e demais convenções conforme o documento de referência.
-
-### CONFIRMAÇÃO OBRIGATÓRIA
-
-Após montar o nome, apresente em destaque:
-
-**NOME PROPOSTO DO ARQUIVO:**
-
-[NOMENCLATURA_COMPLETA].docx
-
-Em seguida, apresente uma tabela explicando o significado de cada código utilizado.
-
-Pergunte obrigatoriamente:
-
-**"Confira cuidadosamente a nomenclatura proposta. O nome do arquivo está realmente correto e de acordo com o padrão da construtora?"**
-
-Ofereça duas opções:
-
-- Sim, está correto. Pode gerar o documento.
-- Não, preciso corrigir a nomenclatura.
-
-**NÃO GERE O DOCUMENTO WORD FINAL SEM A CONFIRMAÇÃO EXPRESSA DO USUÁRIO.**
-
-Se houver correção, atualize a nomenclatura e solicite nova confirmação.
+Não entregue apenas textos para copiar e colar. O resultado solicitado é um arquivo Word editável.
 
 ---
 
-## 10. GERAÇÃO E ENTREGA DO DOCUMENTO
+## 9. INÍCIO DO PROCESSO
 
-Após a aprovação da nomenclatura:
+Ao receber este prompt junto com o memorial base:
 
-1. Gere o memorial completo em Word (.docx).
-2. Utilize exatamente o nome de arquivo aprovado.
-3. Incorpore todas as alterações confirmadas.
-4. Preserve a formatação do modelo original.
-5. Inclua as imagens e os anexos aprovados.
-6. Padronize as tabelas.
-7. Remova os destaques amarelos e as marcações desnecessárias.
-8. Atualize a paginação e o sumário, quando possível.
-9. Abra e verifique o arquivo gerado.
-10. Faça uma conferência visual das páginas, especialmente aquelas com tabelas e imagens.
-11. Corrija problemas de formatação identificados.
-12. Disponibilize o arquivo Word editável para download.
+1. Analise o documento integralmente.
+2. Identifique e organize todos os destaques amarelos.
+3. Apresente as etapas que precisarão ser respondidas.
+4. Inicie imediatamente pela Etapa 1 — Dados do Empreendimento.
+5. Aguarde minhas respostas.
+6. Continue sequencialmente até concluir todas as etapas.
+7. Solicite a imagem do empreendimento, quando necessária.
+8. Consolide e revise as informações.
+9. Apresente um resumo final das alterações e pendências.
+10. Solicite minha autorização para gerar o documento.
+11. Após a aprovação, gere e entregue o Word final.
 
-Não entregue somente o texto revisado. O resultado final solicitado é o arquivo Word completo.
-
-Se alguma operação não puder ser realizada, informe claramente o que ficou pendente.
-
----
-
-## 11. INÍCIO AUTOMÁTICO DO PROCESSO
-
-Quando eu enviar este prompt junto com um memorial base:
-
-1. Analise o Word integralmente.
-2. Identifique todos os trechos destacados.
-3. Organize as alterações necessárias por assunto.
-4. Apresente o plano de etapas.
-5. Inicie o questionário pelos dados gerais do empreendimento.
-6. Aguarde minhas respostas antes de avançar.
-7. Continue até concluir todas as etapas.
-8. Solicite os anexos necessários.
-9. Consolide as informações e revise o conteúdo.
-10. Solicite o padrão de nomenclatura da construtora.
-11. Monte o nome completo do arquivo.
-12. Peça que eu confira e confirme a nomenclatura.
-13. Somente após minha autorização, gere o Word final.
-
-**RESULTADO ESPERADO:** Um Memorial Descritivo de Engenharia completo, atualizado para o empreendimento informado, tecnicamente consistente, com formatação uniforme, anexos incorporados e nomenclatura aprovada pelo usuário.
-
-**INICIE A ANÁLISE DO DOCUMENTO ANEXADO E APRESENTE A PRIMEIRA ETAPA DO QUESTIONÁRIO.**
+**Objetivo final: entregar um Memorial Descritivo de Instalações Elétricas tecnicamente consistente, visualmente padronizado, sem informações antigas e com todas as alterações aprovadas incorporadas.**
